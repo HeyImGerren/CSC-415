@@ -1,0 +1,36 @@
+Test statistics: 
+Using 1 thread: 
+-0m0.786s
+-0m0.763s
+-0m0.744s
+-0m0.755s
+-0m0.732s
+AVERAGE: 0m0.756s
+
+Using 2 threads:
+-0m0.776s
+-0m0.769s
+-0m0.733s
+-0m0.739s
+-0m0.774s
+
+AVERAGE: 0m0.758s 
+
+Using 4 threads: 
+-0m0.820s
+-0m0.735s
+-0m0.732s
+-0m0.746s
+-0m0.727s
+
+AVERAGE: 0.752s
+
+
+Using 8 threads: 
+-0m0.728s
+-0m0.688s
+-0m0.760s
+-0m0.829s
+-0m0.758s
+
+AVERAGE: 0.753
